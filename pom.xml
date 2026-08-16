@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>BrunoTech Releases Nexus Repository</name>
-	      <url>http://nexus:8081/repository/brunopro-release/</url>
+	      <url>http://localhost:7000/repository/vodapro-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>BrunoTech Academy Snapshot Nexus Repository </name>
-	      <url>http://nexus:8081/repository/brunopro-snapshot/</url>
+	      <url>http://localhost:7000/repository/vodapro-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
